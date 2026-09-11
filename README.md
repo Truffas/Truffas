@@ -1,6 +1,5 @@
-   ### Hola, soy Sergio
+### Hola, soy Sergio
 
-   Técnico en ServiceNow (certificación CSA), con experiencia en Deloitte configurando ITSM y CSM. 
-   También programo en Kotlin — [AllTogether](https://github.com/gonzalo9597/AllTogether) es el proyecto del que más contento estoy, una app Android con backend serverless en AWS.
+Técnico en ServiceNow (certificación CSA), con experiencia en Deloitte configurando ITSM y CSM.
 
-   Zaragoza · [LinkedIn](https://www.linkedin.com/in/sergiosanzreinaldo)
+También programo en Kotlin [AllTogether](https://github.com/gonzalo9597/AllTogether) es el proyecto del que más contento estoy, una app Android con backend serverless en AWS.
